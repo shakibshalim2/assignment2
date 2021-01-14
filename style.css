@@ -1,0 +1,46 @@
+#text-gap{
+margin-top: 10%;
+}
+#bg-color{
+background-color: #FFFBF0;
+}
+.card{
+border: 5px grey;
+border-radius: 20px;
+}
+.btn{
+background-color: #A4BC46;
+font-size: 20px;
+padding: 15px 16px 16px 50px;
+border-radius: 10px;
+background-image: url(Logo-Icon/shopping-cart\ 1.png);
+background-repeat: no-repeat;
+background-size: 30px;
+background-position:17%;
+}
+.font-size, h1{
+font-family:sans-serif ;
+font-size: 50px;
+font-weight: bolder;
+color: #363958;
+}
+.border{
+border-radius: 10px;
+
+}
+.col{
+    height: 100%;
+}
+h2, h3{
+    color: #363958;
+    font-weight: bolder;
+}
+#link-button{
+background-image: none;
+padding: 4px 6px 5px 8px;
+font-size: medium;
+}
+p{
+    color: #363958;
+font-weight: 400;
+}
